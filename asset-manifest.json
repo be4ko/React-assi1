@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//github.com/be4ko/React-assi1/static/css/main.0e903a7c.css",
+    "main.js": "//github.com/be4ko/React-assi1/static/js/main.96a771b9.js",
+    "static/media/404.jpg": "//github.com/be4ko/React-assi1/static/media/404.2ab4974df2a6f0478f35.jpg",
+    "static/media/Avatar.png": "//github.com/be4ko/React-assi1/static/media/Avatar.07be56a716fd190399ca.png",
+    "index.html": "//github.com/be4ko/React-assi1/index.html",
+    "main.0e903a7c.css.map": "//github.com/be4ko/React-assi1/static/css/main.0e903a7c.css.map",
+    "main.96a771b9.js.map": "//github.com/be4ko/React-assi1/static/js/main.96a771b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e903a7c.css",
+    "static/js/main.96a771b9.js"
+  ]
+}
