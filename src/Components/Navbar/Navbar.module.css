@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+.logo{
+    float: left;
+    font-weight: bolder;
+    margin: 0;
+    padding: 12px;
+    width: 20%;
+    font-size: 35px;
+    color: white;
+}
+.container{
+    height: 94vh;
+    width: 100%;;
+}
+.navCont{
+    height: 10vh;
+    background-color: #212529;
+}
+.navbar{
+    float: right;
+    display: flex;
+    height: 10%;
+    width: 35%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.navbar li {
+    color: white;
+    text-decoration: none;
+    margin-top: 52px;
+    list-style: none;
+}
+.linkk{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+}
+.linkkk{
+    text-decoration: none;
+    color: white;
+}
+.contact{
+    margin-right:30px
+}

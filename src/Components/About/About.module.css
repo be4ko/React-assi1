@@ -1,0 +1,12 @@
+.container{
+    border: dotted 3px black;
+    width: 40%;
+    margin: 8% 28%;
+}
+.container > * {
+    margin-left: 5%;
+}
+.info{
+    width: 95%;
+    font-size: 17px;
+}
